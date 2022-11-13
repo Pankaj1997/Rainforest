@@ -1,3 +1,4 @@
+#use Python2.7 to run
 import requests
 
 def addDotJson(url):
